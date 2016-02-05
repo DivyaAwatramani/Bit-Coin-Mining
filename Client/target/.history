@@ -1,0 +1,6 @@
+run 192.168.0.13
+exit
+sbt run 4
+scalac client.scala
+-sbt run 4
+sbt run 4
